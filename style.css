@@ -10,7 +10,7 @@ body
   background-color: grey;
   display:flex;
   justify-content:center;
-  
+  padding : 10px;
 }
 h1{
   color:teal;
