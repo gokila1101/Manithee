@@ -19,3 +19,7 @@ h1{
 a{
   color:white;
 }
+ul li {
+  display:flex;
+  flex-direction:row;
+}
